@@ -1,2 +1,2 @@
 # git-workshop
-Repository for practicing using git and github
+Repository for practice in using git and github
